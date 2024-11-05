@@ -7222,7 +7222,7 @@ h3.card__title {
 .logo__contrast-image {
     width: auto;
     height: auto;
-    max-height: 150px;
+    max-height: 50px;
     transition: max-height 0.3s cubic-bezier(0, 0, 0.25, 1);
 }
 
